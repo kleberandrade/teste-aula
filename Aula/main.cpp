@@ -11,4 +11,5 @@ INICIO
     ESCREVA("Ola mundo 3")
     ESCREVA("Ola mundo 4")
     ESCREVA("Ola mundo 5")
+    ESCREVA("Ola mundo")
 FIM
