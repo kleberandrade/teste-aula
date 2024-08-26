@@ -7,4 +7,5 @@
 
 INICIO
     ESCREVA("Ola mundo")
+    ESCREVA("Ola mundo")
 FIM
