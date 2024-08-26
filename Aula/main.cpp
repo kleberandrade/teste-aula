@@ -1,9 +1,10 @@
-#include <iostream>
+#include <stdlib.h>
+#include <stdio.h>
 
-using namespace std;
+#define ESCREVA(X) printf(X);
+#define INICIO int main() {
+#define FIM return 0; }
 
-int main()
-{
-    cout << "Hello world!" << endl;
-    return 0;
-}
+INICIO
+    ESCREVA("Ola mundo")
+FIM
